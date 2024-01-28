@@ -1,0 +1,6 @@
+- OOP: Object Oriented Programming.
+- Object and Classes.
+- Cấu trúc chường trình: package, classes, main function.
+- JDK.
+- Biến và cách đặt tên.
+- Contructor: defaut, overload.

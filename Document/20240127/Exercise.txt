@@ -1,0 +1,8 @@
+1: Nhập số từ bàn phím, nếu là số dương thì tính và xuất căn bậc 2 của số đó, ngược lại thì thông báo lỗi.
+2: Viết chương trình nhập vào thu nhập, tính thuế thu nhập cá nhân, Công thức tính thuế:
+	- Dưới 9 triệu: không đóng thuế.
+	- Từ 9 đến 15 triệu: thuế 10%.
+	- Từ 15 đến 30 triệu: 15%.
+	- Trên 30: 20%.
+3: Nhập tháng và năm từ bàn phím, xuất số ngày của tháng đã nhập.
+4: Viết chương trình cho phép chọn phép tính công hoặc trừ sau đó nhập vào 2 số và thực hiện phép tính.
