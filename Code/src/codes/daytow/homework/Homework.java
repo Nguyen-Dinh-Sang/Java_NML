@@ -1,4 +1,4 @@
-package codes.daytow;
+package codes.daytow.homework;
 
 public class Homework {
     public static void main(String[] args) {

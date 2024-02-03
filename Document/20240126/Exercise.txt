@@ -1,6 +1,6 @@
 1: Khai báo các biến số nguyên a, b, cthực hiện phép cộng a và được c. Xuất ra kết quả c.
 2: Viết chương trình tìm điểm trung bình của các môn học a, b, c trong đó môn a được tính hệ số 2.
-3: Khai báo 2 biến họ tên và tuổi dùng cả 3 hàm để xuất ra <<hoten>>năm nay<<tuoi>>tuổi
+3: Khai báo 2 biến họ tên và tuổi dùng cả 3 hàm xuất để xuất ra <<hoten>>năm nay<<tuoi>>tuổi
 4: Khai báo 2 biến họ tên và tuổi, nhập họ tên và tuổi từ bàn phím và xuất ra <<hoten>>năm nay<<tuoi>>tuổi
-5: Sinh số ngẫu nhiên từ 5 tới 12. Xuất số đó và căn bậc 2 của nó ra màn hình. Dùng switch case.
-6: Nhập vào 2 số thực a và b từ bàn phím tính và xuất a lũy thừa b, giá trị nhỏ nhất của 2 số. Dùng 2 cách if else và switch case.
+5: Sinh số ngẫu nhiên từ 5 tới 12. Xuất số đó và căn bậc 2 của nó ra màn hình.
+6: Nhập vào 2 số thực a và b từ bàn phím tính và xuất a lũy thừa b, giá trị nhỏ nhất của 2 số.

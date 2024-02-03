@@ -4,5 +4,5 @@
 	- Từ 9 đến 15 triệu: thuế 10%.
 	- Từ 15 đến 30 triệu: 15%.
 	- Trên 30: 20%.
-3: Nhập tháng và năm từ bàn phím, xuất số ngày của tháng đã nhập.
-4: Viết chương trình cho phép chọn phép tính công hoặc trừ sau đó nhập vào 2 số và thực hiện phép tính.
+3: Nhập tháng và năm từ bàn phím, xuất số ngày của tháng đã nhập. Dùng switch case.
+4: Viết chương trình cho phép chọn phép tính công hoặc trừ sau đó nhập vào 2 số và thực hiện phép tính. Dùng 2 cách if else và switch case.
