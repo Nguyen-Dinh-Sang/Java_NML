@@ -1,0 +1,5 @@
+1: Xuất bảng cửu chương 7.
+2: Tính trung bình cộng các số chia hết cho 3 từ 27 đến 250.
+3: Nhập điểm từ 0 - 10, nhập sai thì bắt nhập lại.
+4: Nhập mảng số nguyên, tính và xuất trung bình cộng.
+5: Nhập mảng tên 5 Sinh viên và xếp tăng dần.
