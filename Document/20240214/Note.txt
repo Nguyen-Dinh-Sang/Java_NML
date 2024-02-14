@@ -1,0 +1,2 @@
+1. Activity 2:
+	- All the characteristis of the general object, plus additional characteristics.
